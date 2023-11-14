@@ -1,0 +1,17 @@
+body {
+    background-color: #454d6b;
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+}
+
+#divTelaCheia {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="checkbox"] {
+    border: #454d6b 1px solid;
+}
